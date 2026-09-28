@@ -72,7 +72,7 @@ dependencies = [
 [[package]]
 name = "alloy-consensus"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-eips",
  "alloy-primitives",
@@ -98,7 +98,7 @@ dependencies = [
 [[package]]
 name = "alloy-consensus-any"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-eips",
@@ -111,7 +111,7 @@ dependencies = [
 [[package]]
 name = "alloy-contract"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-dyn-abi",
@@ -218,7 +218,7 @@ dependencies = [
 [[package]]
 name = "alloy-eips"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-eip2124",
  "alloy-eip2930",
@@ -242,7 +242,7 @@ dependencies = [
 [[package]]
 name = "alloy-genesis"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-eips",
  "alloy-primitives",
@@ -280,7 +280,7 @@ dependencies = [
 [[package]]
 name = "alloy-json-rpc"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-primitives",
  "alloy-sol-types",
@@ -294,7 +294,7 @@ dependencies = [
 [[package]]
 name = "alloy-network"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-consensus-any",
@@ -319,7 +319,7 @@ dependencies = [
 [[package]]
 name = "alloy-network-primitives"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-eips",
@@ -361,7 +361,7 @@ dependencies = [
 [[package]]
 name = "alloy-provider"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-chains",
  "alloy-consensus",
@@ -419,7 +419,7 @@ dependencies = [
 [[package]]
 name = "alloy-rpc-client"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-json-rpc",
  "alloy-primitives",
@@ -441,7 +441,7 @@ dependencies = [
 [[package]]
 name = "alloy-rpc-types"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-primitives",
  "alloy-rpc-types-engine",
@@ -453,7 +453,7 @@ dependencies = [
 [[package]]
 name = "alloy-rpc-types-any"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus-any",
  "alloy-network-primitives",
@@ -467,7 +467,7 @@ dependencies = [
 [[package]]
 name = "alloy-rpc-types-engine"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-eips",
@@ -483,7 +483,7 @@ dependencies = [
 [[package]]
 name = "alloy-rpc-types-eth"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-consensus-any",
@@ -494,7 +494,7 @@ dependencies = [
  "alloy-serde",
  "alloy-sol-types",
  "alloy-trie",
- "itertools 0.14.0",
+ "itertools 0.13.0",
  "serde",
  "serde_json",
  "serde_with",
@@ -504,7 +504,7 @@ dependencies = [
 [[package]]
 name = "alloy-serde"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-primitives",
  "serde",
@@ -514,7 +514,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-dyn-abi",
  "alloy-primitives",
@@ -530,7 +530,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-aws"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-network",
@@ -549,7 +549,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-azure"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-network",
@@ -567,7 +567,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-gcp"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-network",
@@ -584,7 +584,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-ledger"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-dyn-abi",
@@ -603,7 +603,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-local"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-network",
@@ -622,7 +622,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-trezor"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-network",
@@ -638,7 +638,7 @@ dependencies = [
 [[package]]
 name = "alloy-signer-turnkey"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-consensus",
  "alloy-network",
@@ -726,7 +726,7 @@ dependencies = [
 [[package]]
 name = "alloy-transport"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-json-rpc",
  "auto_impl",
@@ -748,11 +748,11 @@ dependencies = [
 [[package]]
 name = "alloy-transport-http"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "alloy-json-rpc",
  "alloy-transport",
- "itertools 0.14.0",
+ "itertools 0.13.0",
  "reqwest 0.13.5",
  "serde_json",
  "tower",
@@ -779,7 +779,7 @@ dependencies = [
 [[package]]
 name = "alloy-tx-macros"
 version = "2.5.0"
-source = "git+https://github.com/aelmanaa/alloy?rev=ed2de42f039b67723dc3fb3f8965b9721bef0161#ed2de42f039b67723dc3fb3f8965b9721bef0161"
+source = "git+https://github.com/aelmanaa/alloy?rev=f96f2f661df382790dadaf3eb7e469af0fbb5517#f96f2f661df382790dadaf3eb7e469af0fbb5517"
 dependencies = [
  "darling 0.23.0",
  "proc-macro2",
